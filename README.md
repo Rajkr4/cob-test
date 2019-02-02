@@ -1,2 +1,2 @@
 # cob-test
-Testing
+Testing trigger
